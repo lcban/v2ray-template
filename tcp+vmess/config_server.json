@@ -8,13 +8,13 @@
   "stats": {},
   "inbounds": [
     {
-      "port": 3333,
+      "port": 58892,
       "protocol": "vmess",
       "settings": {
         "clients": [
           {
-            "id": "8ef39e0e-3709-47fa-85b5-aadf69906cc9",
-            "alterId": 32
+            "id": "f349feab-76fb-54a6-fbc2-18da0b30c15b",
+            "alterId": 200
           }
         ]
       },
